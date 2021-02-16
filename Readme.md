@@ -1,7 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
-
-<!-- default file list end -->
 # dxTabs - How to display a content based on the selected tab - AngularJS Approach
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/t267165/)**
